@@ -1,13 +1,13 @@
-## Check hash of smart contract
-1. Create new milisig on https://multisig.money/
+## Check hash of smart contract [testnet]
+1. Create new multisig on https://multisig.money/
 ```
 Instantiate contract
  type
  /terra.wasm.v1beta1.MsgInstantiateContract
  sender
- ****
+ terra1cqfk9jyec2la2zf78x5lv0a39ue44z8qpd7t6t
  admin
- ****
+ terra1cqfk9jyec2la2zf78x5lv0a39ue44z8qpd7t6t
  code_id
  15690
  init_msg
@@ -18,11 +18,11 @@ Instantiate contract
    "required_weight": 1,
    "voters": [
      {
-       "addr": "****",
+       "addr": "terra1cqfk9jyec2la2zf78x5lv0a39ue44z8qpd7t6t",
        "weight": 1
      },
      {
-       "addr": "****",
+       "addr": "terra1ftj4ly5ql78wvvdxtkfyjnleqclmrs3skfkh7t",
        "weight": 1
      }
    ]
@@ -39,9 +39,9 @@ receive ->
 }
 ```
 
-contract in the fiender https://finder.terra.money/testnet/address/terra12h5knfe4snzzf430azcurrwuexaa0jfce25tph
+contract - https://finder.terra.money/testnet/address/terra12h5knfe4snzzf430azcurrwuexaa0jfce25tph
 
-transaction in the fiender https://finder.terra.money/testnet/tx/e65858f1452995b98a7da7e08c51e934da83e216d3bbb673b891d69f5425f5bd
+transaction - https://finder.terra.money/testnet/tx/e65858f1452995b98a7da7e08c51e934da83e216d3bbb673b891d69f5425f5bd
 
 ```
 >>> import base64
