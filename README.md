@@ -42,10 +42,10 @@ receive ->
 ```
 >>> import base64
 >>> base64.b64decode("e5u0h1FbG7HWVuw1+w35sznQGbycP5sDWliwKqhukSc=").hex()
-'7b9bb487515b1bb1d656ec35fb0df9b339d019bc9c3f9b035a58b02aa86e9127'
+'7b9bb487515b1bb1d656ec35fb0df9b339d019bc9c3f9b035a58b02aa86e9127' - hash of real contract in net
 ```
 
-3.Try to find hash in different versions in repo https://github.com/CosmWasm/cw-plus/
+3. Try to find hash in different versions in repo https://github.com/CosmWasm/cw-plus/ (check hash only `cw3-fixed-multisig`)
 ````
 v0.2.2
 h=5038c6f516d376a694f54cd2d491f0f6c90ab97d467fc6becd0fe67b450039f7
