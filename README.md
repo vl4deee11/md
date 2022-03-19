@@ -46,6 +46,7 @@ receive ->
 ```
 
 3.Try to find hash in different versions in repo https://github.com/CosmWasm/cw-plus/
+````
 v0.2.2
 h=5038c6f516d376a694f54cd2d491f0f6c90ab97d467fc6becd0fe67b450039f7
 s=249 KB
@@ -217,5 +218,5 @@ s=280 KB
 v0.13.0
 h=23e1cdc8e3389ebf77b101b462a16c8098f73fc33e3bfb449ec04082a86fc6e8
 s=280 KB
-
-Result == Not found hash
+````
+Result - hash not found
