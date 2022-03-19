@@ -39,6 +39,9 @@ receive ->
 }
 ```
 
+contract in fiender https://finder.terra.money/testnet/address/terra12h5knfe4snzzf430azcurrwuexaa0jfce25tph
+transaction in fiender https://finder.terra.money/testnet/tx/e65858f1452995b98a7da7e08c51e934da83e216d3bbb673b891d69f5425f5bd
+
 ```
 >>> import base64
 >>> base64.b64decode("e5u0h1FbG7HWVuw1+w35sznQGbycP5sDWliwKqhukSc=").hex()
@@ -220,3 +223,5 @@ h=23e1cdc8e3389ebf77b101b462a16c8098f73fc33e3bfb449ec04082a86fc6e8
 s=280 KB
 ````
 Result - hash not found
+## Question
+How can I verify  the contract in the network ?
