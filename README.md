@@ -39,8 +39,9 @@ receive ->
 }
 ```
 
-contract in fiender https://finder.terra.money/testnet/address/terra12h5knfe4snzzf430azcurrwuexaa0jfce25tph
-transaction in fiender https://finder.terra.money/testnet/tx/e65858f1452995b98a7da7e08c51e934da83e216d3bbb673b891d69f5425f5bd
+contract in the fiender https://finder.terra.money/testnet/address/terra12h5knfe4snzzf430azcurrwuexaa0jfce25tph
+
+transaction in the fiender https://finder.terra.money/testnet/tx/e65858f1452995b98a7da7e08c51e934da83e216d3bbb673b891d69f5425f5bd
 
 ```
 >>> import base64
